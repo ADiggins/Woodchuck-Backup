@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 2527ec397fc7a9941a24d363027d244d
+timeCreated: 1464052185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Beanie
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_002
+    100010: Bone_003
+    100012: Bone_004
+    100014: Bone_005
+    100016: Bone_006
+    100018: Bone_007
+    100020: Bone_008
+    100022: Bone_009
+    100024: Bone_010
+    100026: Bone_011
+    100028: Bone_012
+    100030: Bone_013
+    100032: Bone_014
+    100034: Bone_015
+    100036: Bone_016
+    100038: Bone_017
+    100040: Bone_018
+    100042: Bone_019
+    100044: Bone_020
+    100046: Chuck
+    100048: //RootNode
+    100050: Sphere
+    100052: Sphere_001
+    100054: Arm_Left_Bicept
+    100056: Arm_Left_Forarm
+    100058: Arm_Left_Hand
+    100060: Arm_Left_Shoulder
+    100062: Arm_Right_Bicept
+    100064: Arm_Right_Forarm
+    100066: Arm_Right_Hand
+    100068: Arm_Right_Shoulder
+    100070: Body_Chest
+    100072: Body_Hip
+    100074: Body_Stomach
+    100076: Head_Neck
+    100078: Head_Skull
+    100080: Leg_Left_Calf
+    100082: Leg_Left_Foot
+    100084: Leg_Left_Hip
+    100086: Leg_Left_Thigh
+    100088: Leg_Right_Calf
+    100090: Leg_Right_Foot
+    100092: Leg_Right_Hip
+    100094: Leg_Right_Thigh
+    100096: Cube
+    100098: Arm_Left_Hand_001
+    100100: Arm_Left_Hand_002
+    100102: Axe
+    100104: Chest_Spine
+    100106: Weapon
+    100108: Eye_Left
+    100110: Eye_Right
+    400000: Armature
+    400002: Beanie
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_002
+    400010: Bone_003
+    400012: Bone_004
+    400014: Bone_005
+    400016: Bone_006
+    400018: Bone_007
+    400020: Bone_008
+    400022: Bone_009
+    400024: Bone_010
+    400026: Bone_011
+    400028: Bone_012
+    400030: Bone_013
+    400032: Bone_014
+    400034: Bone_015
+    400036: Bone_016
+    400038: Bone_017
+    400040: Bone_018
+    400042: Bone_019
+    400044: Bone_020
+    400046: Chuck
+    400048: //RootNode
+    400050: Sphere
+    400052: Sphere_001
+    400054: Arm_Left_Bicept
+    400056: Arm_Left_Forarm
+    400058: Arm_Left_Hand
+    400060: Arm_Left_Shoulder
+    400062: Arm_Right_Bicept
+    400064: Arm_Right_Forarm
+    400066: Arm_Right_Hand
+    400068: Arm_Right_Shoulder
+    400070: Body_Chest
+    400072: Body_Hip
+    400074: Body_Stomach
+    400076: Head_Neck
+    400078: Head_Skull
+    400080: Leg_Left_Calf
+    400082: Leg_Left_Foot
+    400084: Leg_Left_Hip
+    400086: Leg_Left_Thigh
+    400088: Leg_Right_Calf
+    400090: Leg_Right_Foot
+    400092: Leg_Right_Hip
+    400094: Leg_Right_Thigh
+    400096: Cube
+    400098: Arm_Left_Hand_001
+    400100: Arm_Left_Hand_002
+    400102: Axe
+    400104: Chest_Spine
+    400106: Weapon
+    400108: Eye_Left
+    400110: Eye_Right
+    2300000: Cube
+    3300000: Cube
+    4300000: Chuck
+    4300002: Beanie
+    4300004: Sphere_001
+    4300006: Sphere
+    4300008: Cube
+    4300010: Axe
+    4300012: Eye_Left
+    4300014: Eye_Right
+    7400000: Idle
+    7400002: ArmatureAction
+    7400004: Walk Cycle
+    7400006: Run Cycle
+    7400008: AttackOne
+    7400010: AttackTwo
+    7400012: AttackThree
+    7400014: Roll
+    9500000: //RootNode
+    13700000: Beanie
+    13700002: Chuck
+    13700004: Sphere
+    13700006: Sphere_001
+    13700008: Axe
+    13700010: Eye_Left
+    13700012: Eye_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 489
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 179
+    - serializedVersion: 16
+      name: Run Cycle
+      takeName: ArmatureAction
+      firstFrame: 180
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 249
+    - serializedVersion: 16
+      name: Idle
+      takeName: ArmatureAction
+      firstFrame: 250
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 249
+    - serializedVersion: 16
+      name: AttackOne
+      takeName: ArmatureAction
+      firstFrame: 300
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 249
+    - serializedVersion: 16
+      name: AttackTwo
+      takeName: ArmatureAction
+      firstFrame: 350
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 249
+    - serializedVersion: 16
+      name: AttackThree
+      takeName: ArmatureAction
+      firstFrame: 390
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 249
+    - serializedVersion: 16
+      name: Roll
+      takeName: ArmatureAction
+      firstFrame: 500
+      lastFrame: 569
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf
+        weight: 1
+      - path: Armature/Leg_Left_Hip/Leg_Left_Thigh/Leg_Left_Calf/Leg_Left_Foot
+        weight: 1
+      - path: Armature/Leg_Right_Hip
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Left_Shoulder/Arm_Left_Bicept/Arm_Left_Forarm/Arm_Left_Hand/Weapon
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Arm_Right_Shoulder/Arm_Right_Bicept/Arm_Right_Forarm/Arm_Right_Hand
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Chest_Spine/Head_Neck/Head_Skull
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf
+        weight: 1
+      - path: Armature/Leg_Right_Hip/Leg_Right_Thigh/Leg_Right_Calf/Leg_Right_Foot
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 389
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

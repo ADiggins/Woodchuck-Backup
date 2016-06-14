@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: aab3f9a233b608e47aba9ebc2ed12ec5
+timeCreated: 1462940602
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cube_001
+    100006: Leaves
+    100008: Trunk
+    100010: Trunk_Base
+    100012: Armature
+    100014: Bone
+    100016: Cube_002
+    100018: Cube_003
+    100020: Cube_004
+    100022: Cube_005
+    100024: 1__0_180
+    100026: 2__30-210
+    100028: 3__60_240
+    100030: 4__90_270
+    100032: 5__120_300
+    100034: 6__150_330
+    400000: //RootNode
+    400002: Cube
+    400004: Cube_001
+    400006: Leaves
+    400008: Trunk
+    400010: Trunk_Base
+    400012: Armature
+    400014: Bone
+    400016: Cube_002
+    400018: Cube_003
+    400020: Cube_004
+    400022: Cube_005
+    400024: 1__0_180
+    400026: 2__30-210
+    400028: 3__60_240
+    400030: 4__90_270
+    400032: 5__120_300
+    400034: 6__150_330
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Leaves
+    2300008: Trunk
+    2300010: Trunk_Base
+    2300012: Cube_002
+    2300014: Cube_003
+    2300016: Cube_004
+    2300018: Cube_005
+    2300020: 1__0_180
+    2300022: 2__30-210
+    2300024: 3__60_240
+    2300026: 4__90_270
+    2300028: 5__120_300
+    2300030: 6__150_330
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Leaves
+    3300008: Trunk
+    3300010: Trunk_Base
+    3300012: Cube_002
+    3300014: Cube_003
+    3300016: Cube_004
+    3300018: Cube_005
+    3300020: 1__0_180
+    3300022: 2__30-210
+    3300024: 3__60_240
+    3300026: 4__90_270
+    3300028: 5__120_300
+    3300030: 6__150_330
+    4300000: Cube
+    4300002: Cube_001
+    4300004: Leaves
+    4300006: Trunk
+    4300008: Trunk_Base
+    4300010: Cube_005
+    4300012: Cube_004
+    4300014: Cube_003
+    4300016: Cube_002
+    4300018: 6__150_330
+    4300020: 5__120_300
+    4300022: 2__30-210
+    4300024: 3__60_240
+    4300026: 4__90_270
+    4300028: 1__0_180
+    7400000: Default Take
+    7400002: ArmatureAction_002
+    7400004: Standing
+    7400006: Falling 0'
+    7400008: Falling 180'
+    7400010: Falling 30'
+    7400012: Falling 60'
+    7400014: Falling 90'
+    7400016: Falling 120'
+    7400018: Falling 150'
+    7400020: Falling 180'
+    7400022: Falling 210'
+    7400024: Falling 240'
+    7400026: Falling 270'
+    7400028: Falling 300'
+    7400030: Falling 330'
+    9500000: //RootNode
+    13700000: Leaves
+    13700002: Trunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction_002
+      takeName: ArmatureAction_002
+      firstFrame: 0
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Standing
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Falling 0'
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Falling 30'
+      takeName: Default Take
+      firstFrame: 80
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 60'
+      takeName: Default Take
+      firstFrame: 150
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 90'
+      takeName: Default Take
+      firstFrame: 220
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 120'
+      takeName: Default Take
+      firstFrame: 290
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 150'
+      takeName: Default Take
+      firstFrame: 360
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 180'
+      takeName: Default Take
+      firstFrame: 430
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 210'
+      takeName: Default Take
+      firstFrame: 500
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 240'
+      takeName: Default Take
+      firstFrame: 570
+      lastFrame: 630
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 270'
+      takeName: Default Take
+      firstFrame: 640
+      lastFrame: 700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 300'
+      takeName: Default Take
+      firstFrame: 710
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    - serializedVersion: 16
+      name: Falling 330'
+      takeName: Default Take
+      firstFrame: 780
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1__0_180
+        weight: 1
+      - path: 2__30-210
+        weight: 1
+      - path: 3__60_240
+        weight: 1
+      - path: 4__90_270
+        weight: 1
+      - path: 5__120_300
+        weight: 1
+      - path: 6__150_330
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Leaves
+        weight: 1
+      - path: Trunk
+        weight: 1
+      - path: Trunk_Base
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 119
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

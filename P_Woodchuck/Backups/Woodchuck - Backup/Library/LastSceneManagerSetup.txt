@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/06-Scenes/Blender Island.unity
+  isLoaded: 1
+  isActive: 1

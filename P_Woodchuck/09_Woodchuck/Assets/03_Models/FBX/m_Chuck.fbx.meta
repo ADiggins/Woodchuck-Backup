@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 7f53f06e485935f408e5f73768b4614f
+timeCreated: 1465279989
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm Left Bicept
+    100002: Arm Left Forarm
+    100004: Arm Left Hand
+    100006: Arm Left Shoulder
+    100008: Arm Right Bicept
+    100010: Arm Right Forarm
+    100012: Arm Right Hand
+    100014: Arm Right Hand_end
+    100016: Arm Right Shoulder
+    100018: Armature
+    100020: Axe
+    100022: Beanie
+    100024: Body Hip
+    100026: Body Hip_end
+    100028: Chest Spine
+    100030: Chuck
+    100032: Chuck_MeshPart0
+    100034: Chuck_MeshPart1
+    100036: Chuck_MeshPart2
+    100038: Chuck_MeshPart3
+    100040: Chuck_MeshPart4
+    100042: Chuck_MeshPart5
+    100044: Chuck_MeshPart6
+    100046: Eye_Left
+    100048: Eye_Right
+    100050: Head Neck
+    100052: Head Skull
+    100054: Head Skull_end
+    100056: Leg Left Calf
+    100058: Leg Left Foot
+    100060: Leg Left Foot_end
+    100062: Leg Left Hip
+    100064: Leg Left Thigh
+    100066: Leg Right Calf
+    100068: Leg Right Foot
+    100070: Leg Right Foot_end
+    100072: Leg Right Hip
+    100074: Leg Right Thigh
+    100076: //RootNode
+    100078: Weapon
+    100080: Weapon_end
+    400000: Arm Left Bicept
+    400002: Arm Left Forarm
+    400004: Arm Left Hand
+    400006: Arm Left Shoulder
+    400008: Arm Right Bicept
+    400010: Arm Right Forarm
+    400012: Arm Right Hand
+    400014: Arm Right Hand_end
+    400016: Arm Right Shoulder
+    400018: Armature
+    400020: Axe
+    400022: Beanie
+    400024: Body Hip
+    400026: Body Hip_end
+    400028: Chest Spine
+    400030: Chuck
+    400032: Chuck_MeshPart0
+    400034: Chuck_MeshPart1
+    400036: Chuck_MeshPart2
+    400038: Chuck_MeshPart3
+    400040: Chuck_MeshPart4
+    400042: Chuck_MeshPart5
+    400044: Chuck_MeshPart6
+    400046: Eye_Left
+    400048: Eye_Right
+    400050: Head Neck
+    400052: Head Skull
+    400054: Head Skull_end
+    400056: Leg Left Calf
+    400058: Leg Left Foot
+    400060: Leg Left Foot_end
+    400062: Leg Left Hip
+    400064: Leg Left Thigh
+    400066: Leg Right Calf
+    400068: Leg Right Foot
+    400070: Leg Right Foot_end
+    400072: Leg Right Hip
+    400074: Leg Right Thigh
+    400076: //RootNode
+    400078: Weapon
+    400080: Weapon_end
+    4300000: Chuck_MeshPart0
+    4300002: Chuck_MeshPart1
+    4300004: Chuck_MeshPart2
+    4300006: Chuck_MeshPart3
+    4300008: Chuck_MeshPart4
+    4300010: Chuck_MeshPart5
+    4300012: Chuck_MeshPart6
+    4300014: Beanie
+    4300016: Eye_Left
+    4300018: Eye_Right
+    4300020: Axe
+    7400000: Armature|ArmatureAction
+    7400002: anim_Chuck_idle
+    7400004: anim_Chuck_run
+    7400006: anim_Chuck_attack1
+    7400008: anim_Chuck_attack2
+    7400010: anim_Chuck_attack3
+    7400012: anim_Chuck_roll
+    9500000: //RootNode
+    13700000: Axe
+    13700002: Beanie
+    13700004: Chuck_MeshPart0
+    13700006: Chuck_MeshPart1
+    13700008: Chuck_MeshPart2
+    13700010: Chuck_MeshPart3
+    13700012: Chuck_MeshPart4
+    13700014: Chuck_MeshPart5
+    13700016: Chuck_MeshPart6
+    13700018: Eye_Left
+    13700020: Eye_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 569
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_idle
+      takeName: Armature|ArmatureAction
+      firstFrame: 250
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_run
+      takeName: Armature|ArmatureAction
+      firstFrame: 180
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_attack1
+      takeName: Armature|ArmatureAction
+      firstFrame: 300
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_attack2
+      takeName: Armature|ArmatureAction
+      firstFrame: 350
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_attack3
+      takeName: Armature|ArmatureAction
+      firstFrame: 390
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim_Chuck_roll
+      takeName: Armature|ArmatureAction
+      firstFrame: 500
+      lastFrame: 569
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body Hip
+        weight: 1
+      - path: Armature/Body Hip/Body Hip_end
+        weight: 1
+      - path: Armature/Leg Left Hip
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot
+        weight: 1
+      - path: Armature/Leg Left Hip/Leg Left Thigh/Leg Left Calf/Leg Left Foot/Leg
+          Left Foot_end
+        weight: 1
+      - path: Armature/Leg Right Hip
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Left Shoulder/Arm Left Bicept/Arm
+          Left Forarm/Arm Left Hand/Weapon/Weapon_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Arm Right Shoulder/Arm Right Bicept/Arm
+          Right Forarm/Arm Right Hand/Arm Right Hand_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull
+        weight: 1
+      - path: Armature/Leg Right Hip/Chest Spine/Head Neck/Head Skull/Head Skull_end
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot
+        weight: 1
+      - path: Armature/Leg Right Hip/Leg Right Thigh/Leg Right Calf/Leg Right Foot/Leg
+          Right Foot_end
+        weight: 1
+      - path: Axe
+        weight: 1
+      - path: Beanie
+        weight: 1
+      - path: Chuck
+        weight: 1
+      - path: Chuck/Chuck_MeshPart0
+        weight: 1
+      - path: Chuck/Chuck_MeshPart1
+        weight: 1
+      - path: Chuck/Chuck_MeshPart2
+        weight: 1
+      - path: Chuck/Chuck_MeshPart3
+        weight: 1
+      - path: Chuck/Chuck_MeshPart4
+        weight: 1
+      - path: Chuck/Chuck_MeshPart5
+        weight: 1
+      - path: Chuck/Chuck_MeshPart6
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

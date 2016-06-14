@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 035a34cd940e34f49bb9aea8a3e5c8e0
+timeCreated: 1464239172
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm Left Bicept
+    100002: Arm Left Forarm
+    100004: Arm Left Hand
+    100006: Arm Left Hand_end
+    100008: Arm Left Shoulder
+    100010: Arm Right Bicept
+    100012: Arm Right Forarm
+    100014: Arm Right Hand
+    100016: Arm Right Hand_end
+    100018: Arm Right Shoulder
+    100020: Armature
+    100022: Beanie
+    100024: Body Chest
+    100026: Body Hip
+    100028: Body Hip_end
+    100030: Body Stomach
+    100032: Camera
+    100034: Chuck
+    100036: //RootNode
+    100038: Chuck_MeshPart0
+    100040: Chuck_MeshPart1
+    100042: Chuck_MeshPart2
+    100044: Chuck_MeshPart3
+    100046: Chuck_MeshPart4
+    100048: Chuck_MeshPart5
+    100050: Chuck_MeshPart6
+    100052: Head Neck
+    100054: Head Skull
+    100056: Head Skull_end
+    100058: Lamp
+    100060: Leg Left Calf
+    100062: Leg Left Foot
+    100064: Leg Left Foot_end
+    100066: Leg Left Hip
+    100068: Leg Left Thigh
+    100070: Leg Right Calf
+    100072: Leg Right Foot
+    100074: Leg Right Foot_end
+    100076: Leg Right Hip
+    100078: Leg Right Thigh
+    100080: Sphere
+    100082: Sphere.001
+    400000: Arm Left Bicept
+    400002: Arm Left Forarm
+    400004: Arm Left Hand
+    400006: Arm Left Hand_end
+    400008: Arm Left Shoulder
+    400010: Arm Right Bicept
+    400012: Arm Right Forarm
+    400014: Arm Right Hand
+    400016: Arm Right Hand_end
+    400018: Arm Right Shoulder
+    400020: Armature
+    400022: Beanie
+    400024: Body Chest
+    400026: Body Hip
+    400028: Body Hip_end
+    400030: Body Stomach
+    400032: Camera
+    400034: Chuck
+    400036: //RootNode
+    400038: Chuck_MeshPart0
+    400040: Chuck_MeshPart1
+    400042: Chuck_MeshPart2
+    400044: Chuck_MeshPart3
+    400046: Chuck_MeshPart4
+    400048: Chuck_MeshPart5
+    400050: Chuck_MeshPart6
+    400052: Head Neck
+    400054: Head Skull
+    400056: Head Skull_end
+    400058: Lamp
+    400060: Leg Left Calf
+    400062: Leg Left Foot
+    400064: Leg Left Foot_end
+    400066: Leg Left Hip
+    400068: Leg Left Thigh
+    400070: Leg Right Calf
+    400072: Leg Right Foot
+    400074: Leg Right Foot_end
+    400076: Leg Right Hip
+    400078: Leg Right Thigh
+    400080: Sphere
+    400082: Sphere.001
+    4300000: Chuck_MeshPart0
+    4300002: Chuck_MeshPart1
+    4300004: Chuck_MeshPart2
+    4300006: Chuck_MeshPart3
+    4300008: Chuck_MeshPart4
+    4300010: Chuck_MeshPart5
+    4300012: Chuck_MeshPart6
+    4300014: Beanie
+    4300016: Sphere.001
+    4300018: Sphere
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Beanie
+    13700002: Chuck_MeshPart0
+    13700004: Chuck_MeshPart1
+    13700006: Chuck_MeshPart2
+    13700008: Chuck_MeshPart3
+    13700010: Chuck_MeshPart4
+    13700012: Chuck_MeshPart5
+    13700014: Chuck_MeshPart6
+    13700016: Sphere
+    13700018: Sphere.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
