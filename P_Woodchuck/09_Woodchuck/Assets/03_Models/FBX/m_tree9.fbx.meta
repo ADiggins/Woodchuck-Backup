@@ -8,15 +8,20 @@ ModelImporter:
     100000: Leaves
     100002: //RootNode
     100004: Trunk
+    100006: TrunkBase
     400000: Leaves
     400002: //RootNode
     400004: Trunk
+    400006: TrunkBase
     2300000: Leaves
     2300002: Trunk
+    2300004: TrunkBase
     3300000: Leaves
     3300002: Trunk
+    3300004: TrunkBase
     4300000: Leaves
     4300002: Trunk
+    4300004: TrunkBase
   materials:
     importMaterials: 1
     materialName: 0
