@@ -29,6 +29,7 @@ ModelImporter:
     100042: Staircase_2_H
     100044: Staircase_3_H
     100046: Staircase_5_h
+    100048: Plane
     400000: Blueprint
     400002: //RootNode
     400004: Landscape
@@ -53,6 +54,7 @@ ModelImporter:
     400042: Staircase_2_H
     400044: Staircase_3_H
     400046: Staircase_5_h
+    400048: Plane
     2300000: Blueprint
     2300002: Landscape
     2300004: PlayerScale
@@ -76,6 +78,7 @@ ModelImporter:
     2300040: Staircase_2_H
     2300042: Staircase_3_H
     2300044: Staircase_5_h
+    2300046: Plane
     3300000: Blueprint
     3300002: Landscape
     3300004: PlayerScale
@@ -99,6 +102,7 @@ ModelImporter:
     3300040: Staircase_2_H
     3300042: Staircase_3_H
     3300044: Staircase_5_h
+    3300046: Plane
     4300000: Landscape
     4300002: PlayerScale
     4300004: Blueprint
@@ -122,6 +126,7 @@ ModelImporter:
     4300040: Staircase_5_h
     4300042: Staircase_3_H
     4300044: Staircase_2_H
+    4300046: Plane
     6400000: Blueprint
     6400002: Landscape
     6400004: PlayerScale
@@ -145,6 +150,7 @@ ModelImporter:
     6400040: Staircase_2_H
     6400042: Staircase_3_H
     6400044: Staircase_5_h
+    6400046: Plane
     7400000: Default Take
     9500000: //RootNode
   materials:
