@@ -30,6 +30,13 @@ ModelImporter:
     100044: Staircase_3_H
     100046: Staircase_5_h
     100048: Plane
+    100050: Staircase_2_H_001
+    100052: Staircase_2_H_002
+    100054: Staircase_2_H_003
+    100056: Staircase_2_H_004
+    100058: Staircase_3_H_001
+    100060: Staircase_2_H_005
+    100062: Staircase_2_H_006
     400000: Blueprint
     400002: //RootNode
     400004: Landscape
@@ -55,6 +62,13 @@ ModelImporter:
     400044: Staircase_3_H
     400046: Staircase_5_h
     400048: Plane
+    400050: Staircase_2_H_001
+    400052: Staircase_2_H_002
+    400054: Staircase_2_H_003
+    400056: Staircase_2_H_004
+    400058: Staircase_3_H_001
+    400060: Staircase_2_H_005
+    400062: Staircase_2_H_006
     2300000: Blueprint
     2300002: Landscape
     2300004: PlayerScale
@@ -79,6 +93,13 @@ ModelImporter:
     2300042: Staircase_3_H
     2300044: Staircase_5_h
     2300046: Plane
+    2300048: Staircase_2_H_001
+    2300050: Staircase_2_H_002
+    2300052: Staircase_2_H_003
+    2300054: Staircase_2_H_004
+    2300056: Staircase_3_H_001
+    2300058: Staircase_2_H_005
+    2300060: Staircase_2_H_006
     3300000: Blueprint
     3300002: Landscape
     3300004: PlayerScale
@@ -103,6 +124,13 @@ ModelImporter:
     3300042: Staircase_3_H
     3300044: Staircase_5_h
     3300046: Plane
+    3300048: Staircase_2_H_001
+    3300050: Staircase_2_H_002
+    3300052: Staircase_2_H_003
+    3300054: Staircase_2_H_004
+    3300056: Staircase_3_H_001
+    3300058: Staircase_2_H_005
+    3300060: Staircase_2_H_006
     4300000: Landscape
     4300002: PlayerScale
     4300004: Blueprint
@@ -127,6 +155,13 @@ ModelImporter:
     4300042: Staircase_3_H
     4300044: Staircase_2_H
     4300046: Plane
+    4300048: Staircase_2_H_004
+    4300050: Staircase_2_H_003
+    4300052: Staircase_2_H_002
+    4300054: Staircase_3_H_001
+    4300056: Staircase_2_H_001
+    4300058: Staircase_2_H_006
+    4300060: Staircase_2_H_005
     6400000: Blueprint
     6400002: Landscape
     6400004: PlayerScale
@@ -151,6 +186,13 @@ ModelImporter:
     6400042: Staircase_3_H
     6400044: Staircase_5_h
     6400046: Plane
+    6400048: Staircase_2_H_001
+    6400050: Staircase_2_H_002
+    6400052: Staircase_2_H_003
+    6400054: Staircase_2_H_004
+    6400056: Staircase_3_H_001
+    6400058: Staircase_2_H_005
+    6400060: Staircase_2_H_006
     7400000: Default Take
     9500000: //RootNode
   materials:

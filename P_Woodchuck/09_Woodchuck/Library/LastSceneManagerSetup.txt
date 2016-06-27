@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/06_Scenes/lvl_detailedIsland2.unity
+- path: Assets/06_Scenes/lvl_gameMap.unity
   isLoaded: 1
   isActive: 1
